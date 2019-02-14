@@ -6,5 +6,18 @@
 			"done": false,
 			"taskTitle": "Do stuff"
 		}
+	],
+	"block": [
+		{
+			"image": "https://via.placeholder.com/150",
+			"text": "hello!"
+		}
+	],
+	"pet": [
+		{
+			"name": "Adam Catlace",
+			"birthday": "2014-06-01"
+		},
+		{}
 	]
 }
