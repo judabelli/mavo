@@ -64,7 +64,13 @@
 					"modulo-CTA__text": "Lala"
 				}
 			],
-			"modulo-CTA__button": []
+			"modulo-CTA__button": [],
+			"CTA-Button": [
+				{
+					"modulo-CTA__link": "https://kavehome.com",
+					"modulo-CTA__text": "Text"
+				}
+			]
 		}
 	]
 }
