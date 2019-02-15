@@ -86,5 +86,14 @@
 		{
 			"product1-link": []
 		}
+	],
+	"product-grid": [
+		{
+			"product-grid__link": [
+				"https://kavehome.com/es/es/sofas-de-2-y-3-plazas/sofa-debra-2-plazas-azul-oscuro"
+			],
+			"product-grid__image": "https://gallery.mailchimp.com/75d4e1c9b8/images/4ceac686-4800-4367-b30a-56a794a9e1a5.jpg",
+			"product-grid__name": "Sofa Debra 2 plazas, color negro"
+		}
 	]
 }
