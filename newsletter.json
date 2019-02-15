@@ -15,7 +15,8 @@
 			"modulo-2__header--link": "https://kavehome.com/es/es/",
 			"modulo-2__header": "Beach sensations",
 			"modulo-2__postheader": "NEW IN",
-			"modulo-2__link": "https://kavehome.com/es/es/"
+			"modulo-2__link": "https://kavehome.com/es/es/",
+			"modulo-2__postheader  tinymce mavo-tinymce": "Text example"
 		}
 	],
 	"modulo-3": [
@@ -34,7 +35,7 @@
 		{
 			"modulo-5__imagelink": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/fb253a1c-2e78-4373-879b-39ede6efe532.jpg",
 			"modulo-5__title": "En la simplicidad se encuentra la máxima sofisticación.",
-			"modulo-5__text": "Añade elegancia a tus interiores con estos nuevos accesorios decorativos en cerámica que imitan a la piedra natural y al mármol.",
+			"modulo-5__text": "A&ntilde;ade elegancia a tus interiores con <strong>estos</strong> nuevos accesorios decorativos en cer&aacute;mica que imitan a la piedra natural y al m&aacute;rmol.",
 			"modulo-5__link": "https://kavehome.com/es/es/",
 			"modulo-5__image2link": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/90156d16-f2c4-43cf-917e-0185b93624f9.jpg"
 		}
