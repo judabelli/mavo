@@ -99,7 +99,12 @@
 				"www.google.com"
 			],
 			"product-grid__name2": "Sofa Debra, gris",
-			"product-grid__text2": "Sofa 2"
+			"product-grid__text2": "Sofa 2",
+			"product-grid__link3": [
+				"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+				"www.google.com"
+			],
+			"product-grid__name3": "Example"
 		}
 	]
 }
