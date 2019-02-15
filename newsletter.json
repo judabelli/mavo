@@ -94,12 +94,16 @@
 			],
 			"product-grid__image2": "https://gallery.mailchimp.com/75d4e1c9b8/images/bdef962d-7b15-4208-a415-8ac0f95cf014.jpg",
 			"product-grid__image": "https://gallery.mailchimp.com/75d4e1c9b8/images/4ceac686-4800-4367-b30a-56a794a9e1a5.jpg",
-			"product-grid__name": "Sofa Debra 2 plazas, Azul oscuro",
+			"product-grid__name": "Sofa Debra, Azul oscuro",
 			"product-grid__link2": [
 				"www.google.com"
 			],
-			"product-grid__name2": "Sofa 2",
+			"product-grid__name2": "Sofa Debra, gris",
 			"product-grid__text2": "Sofa 2"
+		},
+		{
+			"product-grid__link": [],
+			"product-grid__link2": []
 		}
 	]
 }
