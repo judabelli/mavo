@@ -93,7 +93,11 @@
 				"https://kavehome.com/es/es/sofas-de-2-y-3-plazas/sofa-debra-2-plazas-azul-oscuro"
 			],
 			"product-grid__image": "https://gallery.mailchimp.com/75d4e1c9b8/images/4ceac686-4800-4367-b30a-56a794a9e1a5.jpg",
-			"product-grid__name": "Sofa Debra 2 plazas, Azul oscuro"
+			"product-grid__name": "Sofa Debra 2 plazas, Azul oscuro",
+			"product-grid__link2": [
+				"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+			],
+			"product-grid__name2": "Sofa 2"
 		}
 	]
 }
