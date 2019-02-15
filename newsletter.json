@@ -9,5 +9,25 @@
 	"modulo-2__header--link": "https://kavehome.com/es/es/",
 	"modulo-3__header": "Bedroom dreams",
 	"modulo-3__postheader": "NEW IN",
-	"modulo-3__link": "https://kavehome.com/es/es/"
+	"modulo-3__link": "https://kavehome.com/es/es/",
+	"modulo-2": [
+		{
+			"modulo-2__header--link": "https://kavehome.com/es/es/",
+			"modulo-2__header": "Beach sensations",
+			"modulo-2__postheader": "NEW IN",
+			"modulo-2__link": "https://kavehome.com/es/es/"
+		}
+	],
+	"modulo-3": [
+		{
+			"modulo-3__header": "Bedroom dreams",
+			"modulo-3__postheader": "NEW IN",
+			"modulo-3__link": "https://kavehome.com/es/es/"
+		}
+	],
+	"modulo-4": [
+		{
+			"modulo-4___text": "En la simplicidad se encuentra la máxima sofisticación. Añade elegancia a tus interiores con estos nuevos accesorios decorativos en cerámica que imitan a la piedra natural y al mármol."
+		}
+	]
 }
