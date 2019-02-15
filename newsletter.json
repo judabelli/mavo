@@ -89,7 +89,7 @@
 			"product-grid__link": [
 				"https://kavehome.com/es/es/sofas-de-2-y-3-plazas/sofa-debra-2-plazas-azul-oscuro"
 			],
-			"product-grid__image4": "https://gallery.mailchimp.com/75d4e1c9b8/images/b829fe9c-cdcc-4372-b63b-92bb4d82ad80.jpg",
+			"product-grid__image4": "https://gallery.mailchimp.com/75d4e1c9b8/images/1c182054-072a-4d64-be66-aec8ec7d98bb.jpg",
 			"product-grid__image3": "https://gallery.mailchimp.com/75d4e1c9b8/images/b829fe9c-cdcc-4372-b63b-92bb4d82ad80.jpg",
 			"product-grid__image2": "https://gallery.mailchimp.com/75d4e1c9b8/images/bdef962d-7b15-4208-a415-8ac0f95cf014.jpg",
 			"product-grid__image": "https://gallery.mailchimp.com/75d4e1c9b8/images/4ceac686-4800-4367-b30a-56a794a9e1a5.jpg",
@@ -107,7 +107,12 @@
 			"product-grid__link4": [
 				"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
 			],
-			"product-grid__name4": "Example"
+			"product-grid__name4": "Sofa Debra, turquesa"
 		}
-	]
+	],
+	"modulo-7": {
+		"modulo-7__text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t                        \t\tAñade elegancia a tus interiores con estos nuevos accesorios decorativos en cerámica que imitan a la piedra natural y al mármol.",
+		"modulo-7__link": "https://kavehome.com/es/es/",
+		"modulo-7__linktext": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLeer más\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+	}
 }
