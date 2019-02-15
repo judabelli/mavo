@@ -61,7 +61,8 @@
 			"CTA-Button-Outlined": [
 				{
 					"modulo-CTA__link": "https://kavehome.com/example",
-					"modulo-CTA__text": "Lala"
+					"modulo-CTA__text": "Lala",
+					"modulo-CTA__text-outlined": "Example"
 				}
 			],
 			"modulo-CTA__button": [],
