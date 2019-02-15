@@ -55,5 +55,16 @@
 			"modulo-6__image2link": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/90156d16-f2c4-43cf-917e-0185b93624f9.jpg"
 		}
 	],
-	"preaheder__1st tinymce mavo-tinymce": "SHOP NOW! #kavehome"
+	"preaheder__1st tinymce mavo-tinymce": "SHOP NOW! #kavehome",
+	"modulo-CTA": [
+		{
+			"CTA-Button-Outlined": [
+				{
+					"modulo-CTA__link": "https://kavehome.com/example",
+					"modulo-CTA__text": "Lala"
+				}
+			],
+			"modulo-CTA__button": []
+		}
+	]
 }
