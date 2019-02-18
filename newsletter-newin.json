@@ -2,13 +2,6 @@
 	"preaheder__1st tinymce mavo-tinymce": "SHOP NOW! #kavehome",
 	"modulo01": [
 		{
-			"modulo3": {
-				"modulo-3__header": "Bedroom dreams",
-				"modulo-3__postheader": "NEW IN",
-				"modulo-3__link": "https://kavehome.com/es/es/"
-			}
-		},
-		{
 			"modulo1": {
 				"ex": "https://via.placeholder.com/150",
 				"modulo-1__preheader": "NEW IN",
@@ -17,16 +10,7 @@
 			}
 		}
 	],
-	"modulo02": [
-		{
-			"modulo2": {
-				"modulo-2__header--link tinymce mavo-tinymce": "https://kavehome.com/es/es/",
-				"modulo-2__header": "Beach sensations",
-				"modulo-2__postheader  tinymce mavo-tinymce": "NEW IN",
-				"modulo-2__link": "https://kavehome.com/es/es/"
-			}
-		}
-	],
+	"modulo02": [],
 	"modulo04": [
 		{
 			"modulo4": {
