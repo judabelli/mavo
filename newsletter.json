@@ -10,22 +10,8 @@
 	"modulo-3__header": "Bedroom dreams",
 	"modulo-3__postheader": "NEW IN",
 	"modulo-3__link": "https://kavehome.com/es/es/",
-	"modulo-2": [
-		{
-			"modulo-2__header--link": "https://kavehome.com/es/es/",
-			"modulo-2__header": "Beach sensations",
-			"modulo-2__postheader": "NEW IN",
-			"modulo-2__link": "https://kavehome.com/es/es/",
-			"modulo-2__postheader  tinymce mavo-tinymce": "Text example"
-		}
-	],
-	"modulo-3": [
-		{
-			"modulo-3__header": "Bedroom dreams",
-			"modulo-3__postheader": "NEW IN",
-			"modulo-3__link": "https://kavehome.com/es/es/"
-		}
-	],
+	"modulo-2": [],
+	"modulo-3": [],
 	"modulo-4": [
 		{
 			"modulo-4___text": "En la simplicidad se encuentra la m&aacute;xima <strong>sofisticaci&oacute;n</strong>. A&ntilde;ade <a href=\"Example\" target=\"_blank\" rel=\"noopener\">elegancia</a> a tus interiores con estos nuevos accesorios decorativos en cer&aacute;mica que imitan a la piedra natural y al m&aacute;rmol."
