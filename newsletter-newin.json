@@ -3,7 +3,7 @@
 	"modulo01": [
 		{
 			"modulo1": {
-				"ex": "https://gallery.mailchimp.com/75d4e1c9b8/images/dfff1101-f232-4a94-b71c-7128bd0c1524.png",
+				"ex": "https://gallery.mailchimp.com/75d4e1c9b8/images/db1369fb-b1a0-47d9-b5c7-0a008bfcc3fa.png",
 				"modulo-1__preheader": "NEW IN",
 				"modulo-1__header": "Natural being",
 				"modulo-1__link": "https://kavehome.com/es/es/"
@@ -14,7 +14,7 @@
 	"modulo04": [
 		{
 			"modulo4": {
-				"modulo-5__imagelink": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/fb253a1c-2e78-4373-879b-39ede6efe532.jpg",
+				"modulo-5__imagelink": "https://gallery.mailchimp.com/75d4e1c9b8/images/db1369fb-b1a0-47d9-b5c7-0a008bfcc3fa.png",
 				"modulo-5__title": "En la simplicidad se encuentra la máxima sofisticación.",
 				"modulo-5__text": "Añade elegancia a tus interiores con estos nuevos accesorios decorativos en cerámica que imitan a la piedra natural y al mármol.",
 				"modulo-5__link": "https://kavehome.com/es/es/",
@@ -102,5 +102,6 @@
 				]
 			}
 		}
-	]
+	],
+	"modulo03": []
 }
