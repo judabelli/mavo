@@ -75,7 +75,15 @@
 				"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
 				"www.google.com/producto"
 			],
-			"product2-name": "Example"
+			"product2-name": "Example",
+			"product3-link": [
+				"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+			],
+			"product3-name": "example",
+			"product4_link": [
+				"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+			],
+			"product4_name": "Example2"
 		}
 	],
 	"product-grid": [
