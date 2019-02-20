@@ -2,12 +2,15 @@
 	"preaheder__1st tinymce mavo-tinymce": "SHOP NOW! #kavehome",
 	"modulo01": [
 		{
+			"modulo1": {}
+		},
+		{
 			"modulo1": {
 				"ex": "https://gallery.mailchimp.com/75d4e1c9b8/images/dfff1101-f232-4a94-b71c-7128bd0c1524.png",
 				"modulo-1__preheader": "NEW IN",
 				"modulo-1__header": "Sof&aacute; Debra",
 				"modulo-1__link": "https://kavehome.com/es/es/",
-				"modulo01_linkgeneral": "www.google.es"
+				"modulo01_linkgeneral": "www.kavehome.es"
 			}
 		}
 	],
