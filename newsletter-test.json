@@ -10,7 +10,8 @@
 				"modulo-1__preheader": "NEW IN",
 				"modulo-1__header": "Natural being",
 				"prop": "https://kavehome.com/es/es/",
-				"modulo-1__linktext": "Ver más"
+				"modulo-1__linktext": "Ver más",
+				"module1__linkgeneral": "https://kavehome.com/es/es/"
 			}
 		}
 	],
@@ -33,7 +34,9 @@
 				"modulo-3__header": "Bedroom dreams",
 				"modulo-3__postheader": "NEW IN",
 				"modulo-3__link": "https://kavehome.com/es/es/",
-				"modulo-3__linktext": "Ver más"
+				"modulo-3__linktext": "Ver más",
+				"module3__image": "https://gallery.mailchimp.com/75d4e1c9b8/images/dfff1101-f232-4a94-b71c-7128bd0c1524.png",
+				"module3__linkgeneral": "https://kavehome.com/es/es/"
 			}
 		}
 	],
