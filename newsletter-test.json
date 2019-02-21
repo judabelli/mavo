@@ -8,7 +8,7 @@
 			"modulo1": {
 				"module1__image": "https://gallery.mailchimp.com/75d4e1c9b8/images/dfff1101-f232-4a94-b71c-7128bd0c1524.png",
 				"modulo-1__preheader": "NEW IN",
-				"modulo-1__header": "Example al being",
+				"modulo-1__header": "Natural being",
 				"prop": "https://kavehome.com/es/es/",
 				"modulo-1__linktext": "Example",
 				"module1__linkgeneral": "https://kavehome.com/es/es/"
@@ -22,7 +22,7 @@
 			"modulo4": {
 				"modulo-5__imagelink": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/fb253a1c-2e78-4373-879b-39ede6efe532.jpg",
 				"modulo-5__title": "En la simplicidad se encuentra la máxima sofisticación.",
-				"modulo-5__text": "Example text",
+				"modulo-5__text": "klalalalallal",
 				"modulo-5__link": "https://kavehome.com/es/es/",
 				"modulo-5__image2link": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/90156d16-f2c4-43cf-917e-0185b93624f9.jpg",
 				"modulo4B": [
@@ -52,11 +52,6 @@
 					{
 						"modulo7": {
 							"modulo-8__image": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/74a9e077-3293-4b68-b274-ccec61d95868.jpg"
-						}
-					},
-					{
-						"texto": {
-							"modulo-4___text": "jajsjasjaj"
 						}
 					}
 				],
