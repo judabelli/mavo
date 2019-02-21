@@ -45,9 +45,141 @@
 			"modulo4": {
 				"modulo-5__imagelink": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/fb253a1c-2e78-4373-879b-39ede6efe532.jpg",
 				"modulo-5__title": "En la simplicidad se encuentra la máxima sofisticación.",
-				"modulo-5__text": "klalalalallal",
+				"modulo-5__text": "Example text",
 				"modulo-5__link": "https://kavehome.com/es/es/",
-				"modulo-5__image2link": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/90156d16-f2c4-43cf-917e-0185b93624f9.jpg"
+				"modulo-5__image2link": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/90156d16-f2c4-43cf-917e-0185b93624f9.jpg",
+				"modulo4B": [
+					{
+						"modulo4b": {
+							"modulo-5B__title": "En la simplicidad se encuentra la máxima sofisticación.",
+							"modulo-5B__imagelink": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/fb253a1c-2e78-4373-879b-39ede6efe532.jpg",
+							"modulo-5B__image2link": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/90156d16-f2c4-43cf-917e-0185b93624f9.jpg",
+							"modulo-5b__text": "Añade elegancia a tus interiores con estos nuevos accesorios decorativos en cerámica que imitan a la piedra natural y al mármol.",
+							"modulo-5b__link ": "https://kavehome.com/es/es/"
+						}
+					}
+				],
+				"modulo6B": [
+					{
+						"modulo6bcnt": {
+							"modulo-7__image": "https://gallery.mailchimp.com/3c05d52cdd26d0e7343e7e9ee/images/73c59a3b-e2b6-4104-a26f-876721a4b2f7.jpg",
+							"modulo-7__text": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t                        \t\tAñade elegancia a tus interiores con estos nuevos accesorios decorativos en cerámica que imitan a la piedra natural y al mármol.",
+							"modulo-7__link": "https://kavehome.com/es/es/",
+							"modulo-7__linktext": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLeer más\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+							"modulo-7__image2": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/e1e86bfa-a985-48b6-9380-ee4f33bbb210.jpg",
+							"modulo-7__image3": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/90156d16-f2c4-43cf-917e-0185b93624f9.jpg"
+						}
+					}
+				],
+				"modulo07": [
+					{
+						"modulo7": {
+							"modulo-8__image": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/74a9e077-3293-4b68-b274-ccec61d95868.jpg"
+						}
+					}
+				],
+				"modulogrid1": [
+					{
+						"grid1": {
+							"product-grid__link": [
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+							],
+							"product-grid__image": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/3e65f46d-80e9-400e-93ae-afea6550139e.jpg",
+							"product-grid__name": "Product Name",
+							"product-grid__link2": [
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+							],
+							"product-grid__image2": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/3e65f46d-80e9-400e-93ae-afea6550139e.jpg",
+							"product-grid__name2": "Product Name",
+							"product-grid__link3": [
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+							],
+							"product-grid__image3": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/3e65f46d-80e9-400e-93ae-afea6550139e.jpg",
+							"product-grid__name3": "Product Name",
+							"product-grid__link4": [
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+							],
+							"product-grid__image4": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/3e65f46d-80e9-400e-93ae-afea6550139e.jpg",
+							"product-grid__name4": "Product Name"
+						}
+					}
+				],
+				"modulogrid2": [
+					{
+						"grid2": {
+							"product-grid__link": [
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+							],
+							"product-grid__image": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/3e65f46d-80e9-400e-93ae-afea6550139e.jpg",
+							"product-grid__name": "Product Name",
+							"product-grid__link2": [
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+							],
+							"product-grid__image2": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/3e65f46d-80e9-400e-93ae-afea6550139e.jpg",
+							"product-grid__name2": "Product Name",
+							"product-grid__link3": [
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+							],
+							"product-grid__image3": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/3e65f46d-80e9-400e-93ae-afea6550139e.jpg",
+							"product-grid__name3": "Product Name",
+							"product-grid__link4": [
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+							],
+							"product-grid__image4": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/3e65f46d-80e9-400e-93ae-afea6550139e.jpg",
+							"product-grid__name4": "Product Name",
+							"product-grid__link5": [
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+							],
+							"product-grid__image5": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/3e65f46d-80e9-400e-93ae-afea6550139e.jpg",
+							"product-grid__name5": "Product Name",
+							"product-grid__link6": [
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco",
+								"https://kavehome.com/es/es/sillas/silla-ralf-natural-y-blanco"
+							],
+							"product-grid__image6": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/3e65f46d-80e9-400e-93ae-afea6550139e.jpg",
+							"product-grid__name6": " Product Name"
+						}
+					}
+				],
+				"modulotext": [
+					{
+						"texto": {
+							"modulo-4___title": "2 medidas y 4 colores disponibles",
+							"modulo-4___text": "En la simplicidad se encuentra la máxima sofisticación. Añade elegancia a tus interiores con estos nuevos accesorios decorativos en cerámica que imitan a la piedra natural y al mármol."
+						}
+					}
+				],
+				"modulo05": [
+					{
+						"modulo5": {
+							"modulo-6__image1link": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/fb253a1c-2e78-4373-879b-39ede6efe532.jpg",
+							"modulo-6__image2link": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/90156d16-f2c4-43cf-917e-0185b93624f9.jpg"
+						}
+					}
+				],
+				"modulocta": [
+					{
+						"cta": {
+							"CTA-Button-Outlined": {
+								"modulo-CTA__link-outlined": "https://kavehome.com",
+								"modulo-CTA__text-outlined": "Ver toda la selección"
+							},
+							"CTA-Button": {
+								"modulo-CTA__link": "https://kavehome.com",
+								"modulo-CTA__text": "Ver toda la selección\n\t\t\t\t\t\t\t\t\t                        "
+							}
+						}
+					}
+				]
 			}
 		}
 	],
