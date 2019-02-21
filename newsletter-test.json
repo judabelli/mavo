@@ -8,38 +8,15 @@
 			"modulo1": {
 				"module1__image": "https://gallery.mailchimp.com/75d4e1c9b8/images/dfff1101-f232-4a94-b71c-7128bd0c1524.png",
 				"modulo-1__preheader": "NEW IN",
-				"modulo-1__header": "Natural being",
+				"modulo-1__header": "Example al being",
 				"prop": "https://kavehome.com/es/es/",
 				"modulo-1__linktext": "Example",
 				"module1__linkgeneral": "https://kavehome.com/es/es/"
 			}
 		}
 	],
-	"modulo02": [
-		{
-			"modulo2": {
-				"module2__image": "https://gallery.mailchimp.com/75d4e1c9b8/images/dfff1101-f232-4a94-b71c-7128bd0c1524.png",
-				"module2__linkgeneral": "https://kavehome.com/es/es/",
-				"modulo-2__header--link tinymce mavo-tinymce": "https://kavehome.com/es/es/",
-				"modulo-2__header": "Beach sensations",
-				"modulo-2__postheader  tinymce mavo-tinymce": "NEW IN",
-				"modulo-2__link": "https://kavehome.com/es/es/",
-				"modulo-2__linktext": "Ver más"
-			}
-		}
-	],
-	"modulo03": [
-		{
-			"modulo3": {
-				"modulo-3__header": "Bedroom dreams",
-				"modulo-3__postheader": "NEW IN",
-				"modulo-3__link": "https://kavehome.com/es/es/",
-				"modulo-3__linktext": "Ver más",
-				"module3__image": "https://gallery.mailchimp.com/75d4e1c9b8/images/dfff1101-f232-4a94-b71c-7128bd0c1524.png",
-				"module3__linkgeneral": "https://kavehome.com/es/es/"
-			}
-		}
-	],
+	"modulo02": [],
+	"modulo03": [],
 	"modulo04": [
 		{
 			"modulo4": {
@@ -75,6 +52,11 @@
 					{
 						"modulo7": {
 							"modulo-8__image": "https://gallery.mailchimp.com/8e8a58d246e5209befb567ee2/images/74a9e077-3293-4b68-b274-ccec61d95868.jpg"
+						}
+					},
+					{
+						"texto": {
+							"modulo-4___text": "jajsjasjaj"
 						}
 					}
 				],
